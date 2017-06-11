@@ -32,3 +32,10 @@ bottle of milk in Ye olde fridge .So I went out to hail a cab & shouted
 ” ahoy take me to Tesco”. As I came out with my booty ,I passed a Abraham Men so thre coins into his pot 
 
 useless I ghrant you unless your a coder or its the 19th September "International Pirate day" & you use Wordpress
+
+
+To use download to your wp-content/plugin folder. Log in and on dashboard click on "plugins" ypou should see reference to plugin.
+To use just click activate.Then go to your blog posts you should see some words changed.Will incrtease  Pirate
+Lingo in Array
+
+
