@@ -1,4 +1,4 @@
-This plugin uses basic concepts seen in Hello Dolly & is my first plugin. 
+This plugin uses very basic concepts seen in Hello Dolly & is my first plugin. 
 It can be useful if your new to wordpress plugins & need 
 some simple code to study.
 
