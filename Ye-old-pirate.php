@@ -7,7 +7,7 @@ to them,this is a very basic plugin & uses basic concepts seen in the Hello Doll
 plugin & easy to understand native PHP
 Author: Andy Brookes
 Author URI:https://github.com/captain-sensible
-Version: 1.02
+Version: 1.04
 Licence:GPL2
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
